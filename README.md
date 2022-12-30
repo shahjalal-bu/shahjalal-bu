@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/shahjalal-bu.svg?style=social&label=Followers)](https://github.com/shahjalal-bu?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammad+Ismail!;I'm+an+undergraduate+student+of+Buet...I'm+a+FullStack+Developer...;I'm+a+Robotics+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Bangladeshi+BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammad+Shahjalal!;I'm+an+undergraduate+student+of+Bu...I'm+a+FullStack+Developer...;I'm+a+Robotics+Developer...;I'm+also;And+I'm+a+proud+Bangladeshi+BD)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=shahjalal-bu&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
