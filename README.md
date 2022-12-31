@@ -4,17 +4,17 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/shahjalal-bu.svg?style=social&label=Followers)](https://github.com/shahjalal-bu?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammad+Shahjalal!;I'm+an+undergraduate+student+of+Bu...I'm+a+FullStack+Developer...;I'm+a+Robotics+Developer...;I'm+also;And+I'm+a+proud+Bangladeshi+BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohammad+Shahjalal!;I'm+an+undergraduate+student+of+University+of+Barishal...I'm+a+FullStack+Developer...;I'm+a+Robotics+Developer...;I'm+also;And+I'm+a+proud+Bangladeshi+BD)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=shahjalal-bu&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently a full time student at Bangladesh Unviersity of Engineering and Technology
-- 👯 I’m looking to collaborate on FullStack Web Developer, Machine Learning, Deep Learning Projects and also in Robotics Projects
-- 🤔 I’m also robotics instructor in Buet Robotics Society.
-- 💬 Ask me about Programming or Machine Learning
-  <!-- - 📫 I am also a technical writer at Medium  -->
+- 🔭 I’m currently a full time student at University of Barishal
+- 👯 I’m looking to collaborate on FullStack Web Developer (MERN)
+- 🤔 I’m also working little bit with python.
+- 💬 Ask me about Programming
+- 📫 I am also a passionate technical writer.
   <!-- -  📰 Articles:
   	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987)
   	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010) -->
@@ -23,11 +23,11 @@
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/shahjalal-bu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:ismail.me.buet@gmail.com"
+<a target="_blank" href="mailto:mdshahjalal.bu@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/greyy_lotus"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
+<!-- <a target="_blank" href="https://twitter.com/greyy_lotus"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+&emsp; -->
 <!-- <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
 
 <br>
@@ -37,13 +37,13 @@
 
 ### 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahjalal-bu&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahjalal-bu&theme=gruvbox" alt="muhammadshahjalal"  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahjalal-bu&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahjalal-bu&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="shahjalal" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shahjalal-bu&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
