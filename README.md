@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQF3_BQXWkgV1Q/profile-displaybackgroundimage-shrink_350_1400/0/1699562127832?e=1711584000&v=beta&t=s0kO_Sef8lT3B_iSFIbq-qjIti5ANtTIB89A4qmxPYw" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -21,7 +21,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.licdn.com/dms/image/D5616AQF3_BQXWkgV1Q/profile-displaybackgroundimage-shrink_350_1400/0/1699562127832?e=1711584000&v=beta&t=s0kO_Sef8lT3B_iSFIbq-qjIti5ANtTIB89A4qmxPYw" width="600" height="300"/>
 </div>
 ---
 
