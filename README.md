@@ -21,7 +21,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQF3_BQXWkgV1Q/profile-displaybackgroundimage-shrink_350_1400/0/1699562127832?e=1711584000&v=beta&t=s0kO_Sef8lT3B_iSFIbq-qjIti5ANtTIB89A4qmxPYw"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="300"/>
 </div>
 ---
 
