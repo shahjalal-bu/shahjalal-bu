@@ -34,7 +34,7 @@ I am a Javascript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: (Shahjalal)(https://mdshahjalal.netlify.app)
+- :mailbox:How to reach me: https://mdshahjalal.netlify.app
   
 ---
 
